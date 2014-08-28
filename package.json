@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/soenkekluth/browsersync-ssi",
   "dependencies": {
-    "ssi": "^0.1.5"
+    "ssi": "git://github.com/moriken/node-ssi.git#46d650c32e80fa5db0db6006ef37ee8b0f1f9b7b"
   }
 }
